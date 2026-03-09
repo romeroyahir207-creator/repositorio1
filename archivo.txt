@@ -1,2 +1,2 @@
-primer mensaje de mi archive 
+cambio de rama, pase de master a "rama1"
 
